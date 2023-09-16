@@ -1,0 +1,3 @@
+dist
+clangd-portable-dist
+*.tar*
